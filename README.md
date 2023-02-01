@@ -6,7 +6,7 @@ Within this project, I configured a Packer.json file to ensure that i was able t
 
 
 The gif below shows:
-*The packer.json configuration working and setting up the ami
-*The instance working and running on AWS
-*Being able to SSH into the VM and able to connect to Mongdb and see the dbs available 
+-  The packer.json configuration working and setting up the ami
+-  The instance working and running on AWS
+-  Being able to SSH into the VM and able to connect to Mongdb and see the dbs available 
 ![demo](./Recording%202023-01-31%20at%2015.28.52.gif)
